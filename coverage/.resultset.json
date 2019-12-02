@@ -1,0 +1,21 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/yizhong/Projects/week4/bookmark_manager/spec/bookmark_spec.rb": [
+        1
+      ],
+      "/Users/yizhong/Projects/week4/bookmark_manager/lib/bookmark.rb": [
+
+      ],
+      "/Users/yizhong/Projects/week4/bookmark_manager/spec/features/testing_infrastructure_spec.rb": [
+        1,
+        1,
+        1,
+        0,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1575298248
+  }
+}
